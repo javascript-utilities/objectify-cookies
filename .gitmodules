@@ -1,0 +1,4 @@
+[submodule "objectify-cookies"]
+	path = assets/js/modules/objectify-cookies
+	url = https://github.com/javascript-utilities/objectify-cookies.git
+	branch = main
